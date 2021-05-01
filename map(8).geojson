@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-  {"type":"Feature","id":"vw_busca_feature_name.fid-6ec89f89_178f4acc809_4112","geometry":{"type":"LineString","coordinates":[[-46.93866111,-23.70644444],[-46.97978056,-23.68783611]]},"geometry_name":"geom","properties":{"id":"02R","feattype":"runway"}},
+  {"type":"Feature","id":"vw_busca_feature_name.fid-6ec89f89_178f4acc809_4112","geometry":{"type":"LineString","coordinates":[[-43.162429332733154, -22.916677805890195], [-43.16324472427368, -22.904364235321765]]},"geometry_name":"geom","properties":{"id":"02R","feattype":"runway"}},
   {"type":"Feature","id":"vw_busca_feature_name.fid-6ec89f89_178f4acc809_15b8","geometry":{"type":"Point","coordinates":[-43.1625,-22.91]},"geometry_name":"geom","properties":{"id":"SBRJ","feattype":"airport"}},
   {"type":"Feature","id":"vw_busca_feature_name.fid-6ec89f89_178f4acc809_4907","geometry":{"type":"MultiPoint","coordinates":[[-43.04486111,-22.88525556]]},"geometry_name":"geom","properties":{"id":"MALDU","feattype":"waypoint"}},
   {"type":"Feature","id":"vw_busca_feature_name.fid-6ec89f89_178f4acc809_66ed","geometry":{"type":"MultiPoint","coordinates":[[-43.035,-22.9375]]},"geometry_name":"geom","properties":{"id":"UTGAT","feattype":"waypoint"}},
